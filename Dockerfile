@@ -1,4 +1,4 @@
-FROM openjdk:19-jdk-alpine
+FROM openjdk:11
 
 ENV KAFKA_VERSION=3.4.0
 ENV SCALA_VERSION=2.13
