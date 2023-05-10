@@ -20,5 +20,5 @@ $ ./build.sh
 You can run this docker image which is already push to docker hub with this command
 
 ```
-$ sudo docker run -p9092:9092 ttminh27/kafka-kraft
+$ sudo docker run -p9092:9092 ttminh27/kafka_kraft
 ```
